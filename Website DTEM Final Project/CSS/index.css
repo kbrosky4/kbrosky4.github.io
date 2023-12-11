@@ -1,0 +1,97 @@
+h1{
+    color:rgb(205, 26, 13);
+    font-size: 48px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    line-height: 1.5;
+}
+
+a.menu{
+    margin:50px;
+    font-size: 20px;
+    color:rgb(205, 26, 13);
+}
+
+#menu{
+    background-color: rgb(139, 151, 216);
+    height: 30px;
+}
+
+img{
+    width: 100%;
+    height:auto;
+    border-radius: 40px 40px 40px 40px;
+}
+
+video{
+    width: 45%;
+    height:auto;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+div.gallery1{
+    display: grid;
+    grid-template-columns: 35% 30% 35%;
+}
+
+body{
+    background-color:aliceblue;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(79, 95, 186);
+}
+
+/*unvisited link*/
+a:link{
+    color:rgb(79, 95, 186);
+}
+
+/*visited link*/
+a:link{
+    color:rgb(79, 95, 186);
+}
+
+#me{
+    width: 40%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#camera{
+    width: 40%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+p{
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 14px;
+}
+
+div.gallery2{
+    display: grid;
+    grid-template-columns: 28% 28% 44%;
+}
+
+figcaption{
+    font-size: 14px;
+}
+
+.lists{
+    margin-right: 0px;
+    margin-left: 150px;
+    font-size: 16px;
+}
+
+ul { display: inline-block; text-align: left; }
+
+
+.column {
+    width: 45%;
+    float: left;
+    margin-left: 20px;
+  }
